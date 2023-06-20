@@ -46,6 +46,9 @@
     },
     "rating": {
       "type": "integer"
+    },
+    "imgurl": {
+      "type": "string"
     }
   }
 }
